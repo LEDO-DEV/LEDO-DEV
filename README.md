@@ -1,6 +1,9 @@
-<h1 align="center">Hello Everybody, I'm LE VAN DO</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+my+Github...!+%F0%9F%92%A5;I'm+LE+VAN+DO+%E2%9C%8C;" />
+</h1>
+
 <h3 align="center">Frontend Developer + Bitcoin - Ethereum</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ledo-dev&label=Profile%20views&color=0e75b6&style=flat" alt="ledo-dev" /> </p>
