@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/LEDO-DEV](https://github.com/LEDO-DEV)
 
-- 📝 I regularly write articles on [News Crypto](News Crypto)
+- 📝 I regularly write articles on **(News Crypto)**
 
 - 💬 Ask me about **Market Crypto + Forex Don't Ask Code OK ?**
 
