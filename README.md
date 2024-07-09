@@ -14,17 +14,13 @@
 
 - 🌱 I’m currently learning **FPT Polytechnic**
 
-- 👯 I’m looking to collaborate on [Blockchain](https://linktr.ee/105Trading)
-
 - 🤝 I’m looking for help with [Code & Market Crypto](https://linktr.ee/105Trading)
 
-- 👨‍💻 All of my projects are available at [https://github.com/LEDO-DEV](https://github.com/LEDO-DEV)
+- 💬 Nhận Các Dịch Vụ Trên Nền Tảng Facebook + Instagram + Shopee + TikTok + Youtube + Twitter [https://www.facebook.com/write.levando.oscar.lighight](https://www.facebook.com/write.levando.oscar.lighight)
 
 - 📝 I regularly write articles on **(News Crypto)**
 
-- 💬 Ask me about **Market Crypto + Forex Don't Ask Code OK ?**
-
-- 📫 How to reach me **Zalo:0369.79.0880**
+- 📫 Contact Me: **Zalo:0369.79.0880**
 
 - 📄 Know about my experiences [https://linktr.ee/105Trading](https://linktr.ee/105Trading)
 
