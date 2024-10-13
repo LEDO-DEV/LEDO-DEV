@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+my+Github...!+%F0%9F%92%A5;I'm+LE+VAN+DO+%E2%9C%8C;" />
+    <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+my+Github...!+%F0%9F%92%A5;I'm+LE+VAN+DO+%E2%9C%8C](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ch%C3%A0o+M%E1%BB%ABng+B%E1%BA%A1n+%C4%90%C3%A3+%C4%90%E1%BA%BFn+V%E1%BB%9Bi+Github+Me+%E2%9C%8C;My+Name%3A+L%C3%8A+V%C4%82N+%C4%90%E1%BB%98+%F0%9F%98%81;H%C3%A3y+Tham+Quan+Github+M%C3%ACnh+Nh%C3%A9+!+%F0%9F%8E%89);" />
 </h1>
 
 <h3 align="center">Frontend Developer + Bitcoin - Ethereum</h3>
