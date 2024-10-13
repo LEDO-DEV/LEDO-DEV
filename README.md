@@ -22,7 +22,7 @@
 <a href="https://fb.com/write.levando.oscar.lighight" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="write.levando.oscar.lighight" height="30" width="40" /></a>
 </p>
 
-<p align="center"><strong>Ngôn Ngữ Code Mình Am Hiểu</strong></p>
+<p align="left"><strong>Ngôn Ngữ Code Mình Am Hiểu</strong></p>
 
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
