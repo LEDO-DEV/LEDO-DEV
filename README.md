@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/write.levando.oscar.lighight" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="write.levando.oscar.lighight" height="30" width="40" /></a>
+<a href="https://fb.com/write.levando.oscar.lighight" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b9/2023_Facebook_icon.svg" alt="write.levando.oscar.lighight" height="30" width="40" /></a>
 </p>
 
 <p align="left"><strong>Ngôn Ngữ Code Mình Am Hiểu</strong></p>
