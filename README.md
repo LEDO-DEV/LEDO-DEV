@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">Frontend Developer + Bitcoin - Ethereum</h3>
-<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="500" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://steamuserimages-a.akamaihd.net/ugc/923669499524030070/C7A7FEE6BD2CA5BAA0ED08DF5F19F21BB8A48EA6/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ledo-dev&label=Profile%20views&color=0e75b6&style=flat" alt="ledo-dev" /> </p>
