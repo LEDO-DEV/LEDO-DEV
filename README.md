@@ -13,11 +13,7 @@
 
 - 🌱 I’m currently learning **FPT Polytechnic**
 
-- 🤝 I’m looking for help with [Code & Market Crypto](https://linktr.ee/105Trading)
-
 - 💬 Nhận Các Dịch Vụ Trên Nền Tảng Facebook + Instagram + Shopee + TikTok + Youtube + Twitter [https://www.facebook.com/write.levando.oscar.lighight](https://www.facebook.com/write.levando.oscar.lighight)
-
-- 📝 I regularly write articles on **(News Crypto)**
 
 - 📫 Contact Me: **Zalo:0369.79.0880**
 
