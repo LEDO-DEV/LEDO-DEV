@@ -15,7 +15,7 @@
 
 - 💬 Nhận Hỗ Trợ Facebook + Instagram + Shopee + TikTok + Youtube + Twitter [https://www.facebook.com/write.levando.oscar.lighight](https://www.facebook.com/write.levando.oscar.lighight)
 
-- 📫 Contact Me: **Zalo:0369.79.0880**
+- 📫 Contact Me: **0369.79.0880**
 
 - 📄 Know about my experiences [https://linktr.ee/105Trading](https://linktr.ee/105Trading)
 
