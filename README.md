@@ -17,8 +17,6 @@
 
 - 📫 Contact Me: **0369.79.0880**
 
-- 📄 Know about my experiences [https://linktr.ee/105Trading](https://linktr.ee/105Trading)
-
 - ⚡ Interest **Music - Travel - Street Food - Crypto**
 
 <h3 align="left">Connect with me:</h3>
