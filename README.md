@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ledo-dev&label=Profile%20views&color=0e75b6&style=flat" alt="ledo-dev" /> </p>
 
-- 🔭 I’m currently working on [Freelancer](https://linktr.ee/105Trading)
+- 🔭 I’m currently working on [Freelancer](https://t.me/Whale_Crypto_Real)
 
 - 🌱 I’m currently learning **FPT Polytechnic**
 
@@ -15,14 +15,14 @@
 
 - 📫 Contact Me: **0369.79.0880**
 
-- ⚡ Interest **Music - Travel - Street Food - Crypto**
+- ⚡ Interest **Music - Travel - Street Food**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/write.levando.oscar.lighight" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b9/2023_Facebook_icon.svg" alt="write.levando.oscar.lighight" height="30" width="40" /></a>
 </p>
 
-<p align="left"><strong>Ngôn Ngữ Code Mình Am Hiểu</strong></p>
+<p align="left"><strong>Language Code:</strong></p>
 
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
