@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ledo-dev&label=Profile%20views&color=0e75b6&style=flat" alt="ledo-dev" /> </p>
 
-- 🔭 I’m currently working on [Freelancer](https://t.me/Whale_Crypto_Real)
+- 🔭 I’m currently working on [Insight](https://whale-crypto.blogspot.com/)
 
 - 🌱 I’m currently learning **FPT Polytechnic**
 
